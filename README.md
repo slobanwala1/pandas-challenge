@@ -50,12 +50,12 @@ G) Price
 
 **Preview of first 5 entries of table**
 
-![HOP_table1](https://github.com/slobanwala1/pandas-challenge/blob/main/my_submission/HeroesOfPymoli/Resources/Images/HOP_table1.PNG=250x)
+![HOP_table1](https://github.com/slobanwala1/pandas-challenge/blob/main/my_submission/HeroesOfPymoli/Resources/Images/HOP_table1.PNG =250x)
 
 **Player Count**
 
-![HOP_table2](https://github.com/slobanwala1/pandas-challenge/blob/main/my_submission/HeroesOfPymoli/Resources/Images/HOP_table2.PNG=250x)
+![HOP_table2](https://github.com/slobanwala1/pandas-challenge/blob/main/my_submission/HeroesOfPymoli/Resources/Images/HOP_table2.PNG =250x)
 
 **Purchasing Analysis (Total)**
 
-![HOP_table3](https://github.com/slobanwala1/pandas-challenge/blob/main/my_submission/HeroesOfPymoli/Resources/Images/HOP_table3.PNG=250x)
+![HOP_table3](https://github.com/slobanwala1/pandas-challenge/blob/main/my_submission/HeroesOfPymoli/Resources/Images/HOP_table3.PNG =250x)
