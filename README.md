@@ -65,3 +65,45 @@ G) Price
 <br>
 <br>
 <img src="my_submission/HeroesOfPymoli/Resources/Images/HOP_table3.PNG" width="500">
+
+**Gender Demographics**
+
+<br>
+<br>
+<img src="my_submission/HeroesOfPymoli/Resources/Images/HOP_table4.PNG" width="500">
+
+**Purchasing Analysis(Gender)**
+
+<br>
+<br>
+<img src="my_submission/HeroesOfPymoli/Resources/Images/HOP_table5.PNG" width="500">
+
+**Age Demographics**
+
+<br>
+<br>
+<img src="my_submission/HeroesOfPymoli/Resources/Images/HOP_table6.PNG" width="500">
+
+**Purchasing Analysis(Age)**
+
+<br>
+<br>
+<img src="my_submission/HeroesOfPymoli/Resources/Images/HOP_table7.PNG" width="500">
+
+**Top Spenders**
+
+<br>
+<br>
+<img src="my_submission/HeroesOfPymoli/Resources/Images/HOP_table8.PNG" width="500">
+
+**Most Popular Items**
+
+<br>
+<br>
+<img src="my_submission/HeroesOfPymoli/Resources/Images/HOP_table9.PNG" width="500">
+
+**Most Profitable Items**
+
+<br>
+<br>
+<img src="my_submission/HeroesOfPymoli/Resources/Images/HOP_table10.PNG" width="500">
