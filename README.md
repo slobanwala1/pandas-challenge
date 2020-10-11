@@ -49,10 +49,19 @@ G) Price
 ## Here are the snapshots by statistics analyzed:
 
 **Preview of first 5 entries of table**
+
+<br>
+<br>
 <img src="my_submission/HeroesOfPymoli/Resources/Images/HOP_table1.PNG" width="400">
 
 **Player Count**
+
+<br>
+<br>
 <img src="my_submission/HeroesOfPymoli/Resources/Images/HOP_table2.PNG" width="400">
 
 **Purchasing Analysis (Total)**
+
+<br>
+<br>
 <img src="my_submission/HeroesOfPymoli/Resources/Images/HOP_table3.PNG" width="400">
