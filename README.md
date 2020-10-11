@@ -52,16 +52,16 @@ G) Price
 
 <br>
 <br>
-<img src="my_submission/HeroesOfPymoli/Resources/Images/HOP_table1.PNG" width="400">
+<img src="my_submission/HeroesOfPymoli/Resources/Images/HOP_table1.PNG" width="500">
 
 **Player Count**
 
 <br>
 <br>
-<img src="my_submission/HeroesOfPymoli/Resources/Images/HOP_table2.PNG" width="400">
+<img src="my_submission/HeroesOfPymoli/Resources/Images/HOP_table2.PNG" width="500">
 
 **Purchasing Analysis (Total)**
 
 <br>
 <br>
-<img src="my_submission/HeroesOfPymoli/Resources/Images/HOP_table3.PNG" width="400">
+<img src="my_submission/HeroesOfPymoli/Resources/Images/HOP_table3.PNG" width="500">
